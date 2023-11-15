@@ -1,0 +1,114 @@
+  <!DOCTYPE html>
+  <html lang="en">
+  <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Your Wikipedia Page</title>
+      <style>
+          body {
+              font-family: 'Arial', sans-serif;
+              margin: 20px;
+              line-height: 1.6;
+          }
+
+          header {
+              background-color: #f8f8f8;
+              padding: 10px;
+              text-align: center;
+              border-bottom: 1px solid #ccc;
+          }
+
+          #content {
+              margin-top: 20px;
+          }
+
+          h1, h2, h3 {
+              color: #1a0dab;
+          }
+
+          p {
+              margin-bottom: 15px;
+          }
+
+          img {
+              max-width: 100%;
+              height: auto;
+          }
+
+          ul, ol {
+              margin-bottom: 15px;
+          }
+
+          .infobox {
+              border: 1px solid #aaa;
+              margin: 0 0 1em 1em;
+              background-color: #f9f9f9;
+              width: 22em;
+              font-size: 90%;
+          }
+
+          .infobox caption {
+              margin-left: inherit;
+          }
+
+          .infobox td, .infobox th {
+              border-top: 1px solid #a2a9b1;
+              padding: 0.2em;
+              line-height: 1.5em;
+          }
+
+          footer {
+              margin-top: 20px;
+              padding: 10px;
+              background-color: #f8f8f8;
+              text-align: center;
+          }
+      </style>
+  </head>
+  <body>
+
+      <header>
+          <h1>Rathasart fra Thailand vinner førsteplass i landets musikkonkurranse</h1>
+      </header>
+
+      <div id="content">
+    
+        <section>
+            <i>I en musikalsk triumf har den 17 år gamle Rathasart fra Thailand stått frem som vinneren av landets fremste musikkonkurranse. Med en magisk kombinasjon av stemmeprakt og virtuost gitarspill har Rathasart sikret seg førsteplassen, imponert både publikum og dommere.</i>
+        </section>
+        <section>
+          <hr>
+        </section>
+        <section>
+          <img src="PJgitar.png" alt="PJ som synger">
+        </section>
+        
+          <section>
+              <h2>Thailands 17-årige gitarvirtuos Rathasart</h2>
+              <p>Rathasart, en 17 år gammel musikalsk sensasjon fra Thailand, har tatt landet med storm ved at han vant førsteplassen i den nasjonale musikkonkurransen. Han begynte å spille gitar i en alder på 11 år og igjennom årene har Rathasart jobbet hardt med sitt talent for gitarspill gjennom de siste seks årene.</p>
+          </section>
+
+          <section>
+              <h2>Rathasart imponerer med stemme og gitarspill</h2>
+              <p>Under konkurransen merket publikum og dommere Rathasart sin kraftfulle stemme og dyktige gitarspill. Han viste fram sine egenskaper gjennom sangene med ikke bare teknisk dyktighet, men også en unik artistisk stil som fanget oppmerksomheten til alle tilstedeværende.</p>
+          </section>
+
+        <section>
+            <h2>Intervjuet etter serieren</h2>
+            <p>Rathasart uttrykte sin glede og takknemlighet etter seieren, og uttalte etter spørsmålet; hvordan føles det å vinne førsteplass?!: «Det er veldig bra.» Han utalte hvor glad han var på for å vinne og hvor takknemlig han var for å kunne fått sjansen til å konkurrere. «Å få muligheten til å dele min lidenskap for musikk med så mange mennesker er en utrolig opplevelse.»</p>
+        </section>
+
+        <section>
+            <h2>Rathasart hylles for suksesset på nett.</h2>
+            <p>Publikum er enige, og sosiale medier har eksplodert med gratulasjoner og støtte til den talentfulle artisten. Rathasart viser ikke bare hvor mye suksess det er mulig å få for en ung gutt, men også den strålende fremtiden for musikken i Thailand.</p>
+        </section>
+        
+          <!-- Add more sections as needed -->
+      </div>
+
+      <footer>
+          <p>&copy; 2023 PJ Wikipedia Page. All rights reserved.</p>
+      </footer>
+
+  </body>
+  </html>
